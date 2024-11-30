@@ -1,4 +1,4 @@
-# UniWallet  
+# UniWallet™ 
 
 UniWallet is a web application designed to help students and young professionals manage their finances with ease. It offers tools for expense tracking, budgeting, and seamless mobile payment integration, empowering users to develop responsible financial habits.  
 
@@ -37,10 +37,10 @@ UniWallet is a web application designed to help students and young professionals
    
 ## Folder Structure
   
-  /src
-    components/: React components for the user interface.
-    firebase.js: Firebase configuration and initialization.
-    App.js: Main application component.
+    /src
+      components/: React components for the user interface. <br>
+      firebase.js: Firebase configuration and initialization. <br>
+      App.js: Main application component. <br>
     
 ## Contributing
 We welcome contributions to improve UniWallet!
