@@ -15,9 +15,9 @@ UniWallet is a web application designed to help students and young professionals
 
 ## Tech Stack  
 - **Frontend:** React, Redux  
-- **Backend:** Firebase Authentication, Firestore  
+- **Backend:** Firebase Authentication, Firestore, Database 
 - **Design:** Figma prototypes  
-- **Collaboration Tools:** Trello, Slack  
+- **Collaboration Tools:** Slack  
 
 ---
 
