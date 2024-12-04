@@ -3,6 +3,15 @@
 UniWallet is a web application designed to help students and young professionals manage their finances with ease. It offers tools for expense tracking, budgeting, and seamless mobile payment integration, empowering users to develop responsible financial habits.  
 
 ---
+## UI/UX DESIGN 
+### SignIn
+![SignIn](https://github.com/user-attachments/assets/3cfea79e-3d03-4dc5-ab3e-b9cb6bd37e02)
+
+### SignUp
+![SignUp](https://github.com/user-attachments/assets/c3627db3-6ab5-43e9-84c9-fd9f1aa21be7)
+
+### Dashboard
+![Dashboard](https://github.com/user-attachments/assets/90831817-f041-4367-bced-bc055ccfe98f)
 
 ## Features  
 - **Expense Tracking:** Monitor daily spending and categorize expenses.  
